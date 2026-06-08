@@ -1,0 +1,6 @@
+{
+  "name": "サロン材料管理AI",
+  "description": "美容室の材料費・在庫・補充をかんたん管理する業務アプリ。本部と店舗でのデータ共有、月次集計、AIレポート生成機能付き。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
